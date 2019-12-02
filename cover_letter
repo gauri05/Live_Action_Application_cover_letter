@@ -1,0 +1,21 @@
+(Tell us what your idea is) IDEA: This Application is useful for deaf people.
+                                  The data is stored in firebase cloud and if we want to add some new action with name then we can add through this application.
+                                  We can use deep machine learning for detecting the action by using TensorFlow.
+                                  This application is also useful for different application like Whatsapp,Instagram,Google Hangouts,etc..
+                                  They can easily communicate with each other by using this application.
+                                 
+                                 
+(Tell us how you plan on bringing it to life) PLAN: 1) Current application detecting the diffrent objects.
+                                                    2)Next plan: 1)Detecting human action =>(Work in progress) Requried Library which detect human action and show exaction action in words/setences.
+                                                                                             (Dead Line: 20/12/2019)
+                                                                 2)Store that action with name in cloud.(Dead Line: 22/12/2019)
+                                                                 3)Train the dataset.(Dead Line: 30/12/2019)
+                                                                 4)Add new Action with name.(Dead Line: 5/01/2020)
+                                                                 5)When Action detectes it shows the existing name and if not, then gives the add option.(Dead Line: 12/01/2020)
+                                                                 6)Testing on different data set.(Dead Line: 26/01/2020)
+                                                                 7)Try to provide additional functionality.(Dead Line: 15/02/2020)
+
+(Tell us about you) About Me: My name is Gauri Sunil Botre. My nationality is Indian. I have completed my MCS(Master in Computer Science)
+                              and I have 1.5 year job experience as android developer. I have completed 3 android project by using Firebase cloud,
+                              Google cloud, AWS(Amazon Web Services), Nativa Application. I am also interested in ML, Python and writing native application.
+                              
